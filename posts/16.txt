@@ -1,0 +1,3 @@
+ Company name: glan management consultancy pvt. ltd.
+ Required Skills : python,rdbms,mysql,cloudcomputing,docker,sql
+ More info : {link}
